@@ -10,6 +10,7 @@ En sortie, sera créé un fichier de log qui donnera comme information à l'utis
 En complément, un fichier en format JSON sera également créé dans le but de regrouper et mettre en forme l'ensemble des dépendances du projet ainsi qu'une description de leur rôle.
 
 A la fin de process, il sera demandé à l'utilisateur dans l'invite de commande s'il souhaite effectuer la mise à jour pour chaque dépendance qui en nécessite une.
+<img width="966" alt="image" src="https://github.com/RonaldFK/checkUpdateNpm/assets/90004972/247db0b3-6247-42a6-a344-e3be07e2b509">
 
 ### Outils :
 
